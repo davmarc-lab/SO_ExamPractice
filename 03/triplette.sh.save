@@ -1,0 +1,12 @@
+#!/bin/bash
+
+count=0
+
+for name in * ; do
+	if (( $count == 3 )) ; then
+		echo $count
+		count=0
+	else
+		unt+1
+	fi
+done
