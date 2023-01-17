@@ -4,3 +4,6 @@ __END_DECLS
 __END_DECLS
 
 #endif /* <stdio.h> included.  */
+__END_DECLS
+
+#endif /* <stdio.h> included.  */
