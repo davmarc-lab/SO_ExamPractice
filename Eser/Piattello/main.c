@@ -34,6 +34,7 @@
 #include <pthread.h>
 
 #include "DBGpthread.h"
+#include "attendi.h"
 
 #define NUMTIRATORI 10
 #define DELAYTRADUEPIATTELLI8sec 8
